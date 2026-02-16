@@ -55,8 +55,8 @@ All queries are organized into four difficulty levels.
 ### 4. Advanced SQL Questions (10 queries)
 - Uses complex techniques like CTEs, window functions, and rankings to provide deep insights and suggestions, such as forecasting trends or optimizing strategies.
 
-**Full SQL script**: [AnalysisQueries.sql](https://github.com/aslaminr/SQL-Portfolio-Project-AdventureWorks-Sales/blob/d4fef1effcd5a06795c5d75d556f5bc29bb5b097/AW-Assets/AdventureWorks-Queries.sql)
-
+**Full SQL script**: [AnalysisQueries.sql](https://github.com/aslaminr/SQL-Portfolio-Project-AdventureWorks-Sales/blob/d4fef1effcd5a06795c5d75d556f5bc29bb5b097/AW-Assets/AdventureWorks-Queries.sql)  
+  
 ### Sample - Advanced SQL Questions & Answers
 
 #### Year-over-Year Sales Growth:
@@ -392,3 +392,4 @@ Made with ❤️ by Aslam
 <br>
 
 Copyright © Aslam PP | 2026. All rights reserved.
+
